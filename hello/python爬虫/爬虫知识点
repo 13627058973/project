@@ -1,0 +1,49 @@
+爬虫知识点：
+
+1，浏览器的请求
+--url
+   -在chrome中点击检查，点到network
+   -url = 请求的协议+网站的域名+资源的路径+参数
+
+--浏览器请求url地址
+  - 当前url对应的响应+js+css+图片 --》elements（基础，原理）中的内容
+  - 爬虫请求url地址
+    - 当前url对应的响应
+  - elements的内容和爬虫获取到的url地址的响应不同  爬虫中需要以当前url地址对应的响应为准提取数据
+
+2，认识HTTP  HTTPS
+--HTTP: 超文本传输协议
+  - 以明文的反式传输
+  - 效率更高 但是不安全
+
+--HTTPS：HTTP + SSL(安全套接字层)
+  - 传输之前数据先加密  之后解密获取内容
+  - 效率低，但是安全
+
+requests模块的学习
+
+使用事前：pip install requests
+
+--发送get post请求，获取响应
+  -response =requests.get(url)  # 发送get请求 请求url地址对应的响应
+  -response =requests.post(url,data={请求体的字典}) # 发送post请求
+
+response的方法：
+
+--response,text
+  -该方式往往会出现乱码 出现乱码使用response.encoding="utf-8"
+--response.content.decode()
+  -把响应的二进制字节流转化为str类型
+
+##获取网页源码的正确打开方式：(通过下面三种方式 一定能够获取网页的正确解码之后的字符串)
+
+（1） response.content.decode()
+ (2)  response.content.decode("gbk")
+ (3)  response.text
+
+
+
+
+
+
+
