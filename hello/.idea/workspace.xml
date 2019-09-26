@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3236a1cb-0806-4986-9292-875e7249d639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../xiong/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../xiong/练习/接口测试/security code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/hello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hello.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python爬虫/test/药师帮 60.py" beforeDir="false" afterPath="$PROJECT_DIR$/python爬虫/test/药师帮 60.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/单元测试/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/单元测试/result.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/单元测试/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/单元测试/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/自动化学习/app 自动化学习/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自动化学习/基础练习/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/自动化学习/基础练习/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/自动化学习/基础练习/jmeter.py" beforeDir="false" afterPath="$PROJECT_DIR$/自动化学习/基础练习/jmeter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xiong/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xiong/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xiong/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xiong/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xiong/.idea/project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../xiong/.idea/project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xiong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xiong/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xiong/Commonlib/commonlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xiong/Commonlib/commonlib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xiong/TestCase/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xiong/TestCase/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xiong/TestCase/testsuit.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xiong/TestCase/testsuit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xiong/爬虫/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xiong/爬虫/ccf spider.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xiong/爬虫/ccf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xiong/采处方/总后台/ccfz_common/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xiong/采处方/总后台/ccfz_common/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xiong/采处方/总后台/ccfz_common/common.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xiong/采处方/总后台/商品基础库/搜索.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xiong/采处方/总后台/商品基础库/搜索.py" afterDir="false" />
-    </list>
+    <list default="true" id="3236a1cb-0806-4986-9292-875e7249d639" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1672,7 +1641,7 @@
       <workItem from="1569375152781" duration="14345000" />
       <workItem from="1569398256510" duration="1144000" />
       <workItem from="1569402530138" duration="6179000" />
-      <workItem from="1569461679725" duration="3943000" />
+      <workItem from="1569461679725" duration="4319000" />
     </task>
     <servers />
   </component>
