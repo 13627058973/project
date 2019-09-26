@@ -17,10 +17,14 @@ class Search_goods(Commonshare):
     def create_goods(self):
         self.driver.implicitly_wait(5)
         # 打开采处方
-        self.open_url('https://admin.caichufang.com/admin/index.html')
+        self.open_url('http://test2admin.caichufang.com/admin/login.html')
         # 添加token 跳过登录
-        self.driver.add_cookie({'name': 'SESSION', 'value': 'dd20fefc-ce6f-410f-8c38-8262bce7fc6d'})
-        self.open_url('https://admin.caichufang.com/admin/index.html')
+        # self.driver.add_cookie({'name': 'SESSION', 'value': '0b7b1da4260e3fd9b7890520f035c290|1568253708|1568253627'})
+        # self.open_url('https://admin.caichufang.com/admin/index.html')
+        self.input_data('id', 'userName', 'ccf_super_admin')
+        self.input_data('id', 'userPwd', 'caichufang2017')
+        self.input_data('id', 'loginCaptcha', '0809')
+        self.click('xpath', '/html/body/div/div[2]/div/form/div[4]/input')
         # 获取商品基础库元素，并进行点击
         self.click('xpath', '/html/body/div/div[2]/div[2]/div[1]/div/div/div[2]/ul/li[1]/div/a/div[2]')
         # 进入镶嵌页面iframe

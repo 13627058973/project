@@ -1,17 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e7ffa91-8cde-4658-9d90-e09eafc6e223" name="Default Changelist" comment="" />
+    <list default="true" id="4e7ffa91-8cde-4658-9d90-e09eafc6e223" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiong/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiong/练习/接口测试/security code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PycharmProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hello/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hello/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/python爬虫/test/药师帮 60.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello/python爬虫/test/药师帮 60.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/单元测试/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello/单元测试/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/单元测试/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello/单元测试/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/自动化学习/app 自动化学习/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/自动化学习/基础练习/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello/自动化学习/基础练习/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/自动化学习/基础练习/jmeter.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello/自动化学习/基础练习/jmeter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiong/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xiong/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiong/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xiong/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiong/.idea/project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xiong/.idea/project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xiong/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiong/Commonlib/commonlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/xiong/Commonlib/commonlib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiong/TestCase/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/xiong/TestCase/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiong/TestCase/testsuit.py" beforeDir="false" afterPath="$PROJECT_DIR$/xiong/TestCase/testsuit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiong/爬虫/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiong/爬虫/ccf spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiong/爬虫/ccf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiong/采处方/总后台/ccfz_common/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/xiong/采处方/总后台/ccfz_common/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiong/采处方/总后台/ccfz_common/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiong/采处方/总后台/商品基础库/搜索.py" beforeDir="false" afterPath="$PROJECT_DIR$/xiong/采处方/总后台/商品基础库/搜索.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1P2UJrZwicWk1Afc27q3C429bBq" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xiong" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -77,11 +110,27 @@
       <workItem from="1565681749357" duration="1219000" />
       <workItem from="1568009469280" duration="183000" />
       <workItem from="1568009829409" duration="21000" />
+      <workItem from="1568011548917" duration="537000" />
+      <workItem from="1568625177945" duration="64000" />
+      <workItem from="1569400055466" duration="1726000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PycharmProjects$python_6_.coverage" NAME="python 6 循环语句 Coverage Results" MODIFIED="1565077716796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hello" />

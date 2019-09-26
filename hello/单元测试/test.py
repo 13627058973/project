@@ -32,7 +32,7 @@ class MyTestCase(unittest.TestCase):
 
 if __name__ == '__main__':
     test_suit = unittest.TestSuite()  # 创建一个测试集合
-    # test_suit.addTest(MyTestCase('test_04'))  # 测试套件中添加测试用例
+    test_suit.addTest(MyTestCase('test_04'))  # 测试套件中添加测试用例
     test_suit.addTest(unittest.makeSuite(MyTestCase))  # 使用makeSuite方法添加所有的测试方法
     fp = open('res.html', 'wb')  # 打开一个保存结果的html文件
     runner = HTMLTestRunner.HTMLTestRunner(stream=fp,

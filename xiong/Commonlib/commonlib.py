@@ -54,7 +54,7 @@ class Commonshare(object):
     def input_data(self, locate_type, value, data):
         # 调用locateElement()
         el = self.locateElement(locate_type, value)
-        # 执行点击操作
+        # 执行文本输入操作
         el.send_keys(data)
 
     # 获取定位到的元素中的文本内容 <a>xxx</a>

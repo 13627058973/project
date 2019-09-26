@@ -14,7 +14,7 @@ class Test(unittest.TestCase):
         # 向测试套件中添加测试用例
         case_list = ['test_001', 'test_002', 'test_003', 'test_004']
         for case in case_list:
-            mysuit.addTest(TestCase(case))
+            mysuit.addTest(case)
         # 使用runner运行测试用例
         # unittest.TextTestRunner(verbosity=2).run(myst)       # verbosity=2 生成测试报告
 

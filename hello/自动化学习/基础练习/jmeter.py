@@ -1,14 +1,14 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# import xlwt
-#
-# workbook = xlwt.Workbook(encoding='utf-8')  # 新建空白表格
-# sheet = workbook.add_sheet('jmeter')
-# for i in range(6000):
-#     user = "jmeter%s"%i
-#     print(user)
-#     sheet.write(i, 0, user)
-# workbook.save('E:/jmeter.xls')
+import xlwt
+
+workbook = xlwt.Workbook(encoding='utf-8')  # 新建空白表格
+sheet = workbook.add_sheet('jmeter')
+for i in range(6000):
+    user = "jmeter%s"%i
+    print(user)
+    sheet.write(i, 0, user)
+workbook.save('E:/jmeter.xls')
 l1 = [183,0,1,2,-184,367]
 
 num = []

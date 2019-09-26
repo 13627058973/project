@@ -72,9 +72,9 @@ def get_store_good():
     total = 55
     for i in range(total):
         page = i + 1
-        page = page + int(27)
+        page = page + int(10)
         url = 'https://dian.ysbang.cn/wholesale-drug/sales/getWholesaleList/v4110'
-        cookies = 'Token=672bfefb0ddf48ed898fd12176f90ecc'
+        cookies = 'Token=bba9afa8e93c49d7a7d401d1a05c57d8'
         headers = {
             # 'GET': url + ' HTTP/1.1',
             'Host': 'dian.ysbang.cn',
@@ -96,7 +96,7 @@ def get_store_good():
             "page": str(page),
             "pagesize": 60,
             "operationtype": 2,
-            "provider_id": 10,
+            "provider_id": 2071,
             "mustStockAvailable": 0,
             "sort": "默认",
             "classify_id": "",
@@ -136,7 +136,7 @@ def selenium(url5):
 
     driver.get('https://dian.ysbang.cn/login.html')
 
-    driver.add_cookie({'name': 'Token', 'value': '672bfefb0ddf48ed898fd12176f90ecc'})
+    driver.add_cookie({'name': 'Token', 'value': 'bba9afa8e93c49d7a7d401d1a05c57d8'})
     driver.get(url5)
     driver.implicitly_wait(30)
     iframe = driver.find_element_by_id('pageContent')
@@ -231,7 +231,7 @@ def save(info):
             j += 1
         i += 1
 
-        book.save('E:/百年旗舰.xls')
+        book.save('E:/晋实惠.xls')
 
 
 get_store_good()

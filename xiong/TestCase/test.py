@@ -25,12 +25,12 @@ class Test1(unittest.TestCase):
 
 if __name__ == '__main__':
     # 创建测试套件
-    suit = TestCase()
+    suit = unittest.TestCase()
     # 向测试套件中添加测试用例类
     # 定义一个测试用例列表
     case_list = ['test_001', 'test_002', 'test_003']
     for case in case_list:
-        suit.addTest(Test1(case))
+        suit.addTest(case)
     # 运行测试用例，verbosity=2为每个测试用例输出报告。run的参数是测试套件
     unittest.TextTestRunner(verbosity=2).run(suit)
 
